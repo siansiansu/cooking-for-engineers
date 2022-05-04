@@ -81,16 +81,16 @@
 
 ## 魚的台語 hî-á ê tâi-gí
 
-0. 紅鰱魚 âng-liân-hî
-1. 肉魚仔 bah-hî-á
-2. 鮸魚 bián-hî
-3. 魩仔魚 but-á-hî
+0. 紅鰱魚、紅石姥魚 âng-liân-hî
+1. 高背鰏、三角仔 sann-kak-á
+2. 鮸魚、鮸仔魚、免魚、勉魚、敏魚 bián-hî
+3. 魩仔魚、鱙仔魚、魩鱙 but-á-hî / jiâu-á-hî
 4. 魴魚、魟魚 hang-hî
-5. 鰹魚、煙仔魚 ian-á-hî
+5. 鰹魚、煙仔魚、正鰹、圓花鰹 ian-á-hî
 6. 油魚 iû-hî
-7. 鱙仔魚 jiâu-á-hî
+7. 小丑魚、三跤娘仔 sann-kha-niû-á
 8. 鰇魚 jiû-hî
-9. 加網魚 ka-bāng-hî
+9. 加網魚、春子、鈍頭叫姑魚、黑加網、臭魚仔 oo-bué-tang / oo-bé-tang / ka-bāng-hî
 10. 狗母魚 káu-bó-hî
 11. 旗魚 kî-hî
 12. 鹹鰱魚 kiâm-liân-hî
@@ -131,18 +131,10 @@
 47. 烏面眶棘鱸、紅尾冬 âng-bué-tang / âng-bé-tang
 48. 雙帶鱗鰭烏尾鮗、烏尾冬 oo-bué-tang / oo-bé-tang
 49. 黄背牙鯛、赤鯮 tshiah-tsang
-50. 鈍頭叫姑魚、黑加網、加網魚、臭魚仔 oo-bué-tang / oo-bé-tang
+50. 擬刺尾鯛 青tshinn倒吊仔
 51. 藍短鰭笛鯛、汕午 suann-ngóo
 52. 銀紋笛鯛、紅槽 âng-tsô
 53. 杜氏鰤、紅魽 oo-bué-tang / oo-bé-tang
 54. 大眼鯛、紅目鰱 âng-ba̍k-liân
 55. 魔鬼簑鮋、獅子魚、虎魚 hóo-hî
 56. 眼眶魚、皮刀 phuê-to
-57. 擬刺尾鯛 青tshinn倒吊仔
-58. 小丑魚、三跤娘仔 sann-kha-niû-á
-59. 高背鰏、三角仔 sann-kak-á
-
-
-
-
-

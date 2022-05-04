@@ -77,3 +77,52 @@
 9. 花雕酒：玉泉花雕酒。
 10. 米：新南田董米
 11. 米酒：台灣菸酒紅標料理米酒。
+
+
+## 魚的台語 hî-á ê tâi-gí
+
+0. 紅鰱魚 âng-liân-hî/âng-liân-hû
+1. 肉魚仔 bah-hî-á/bah-hû-á
+2. 鮸魚 bián-hî/bián-hû
+3. 魩仔魚 but-á-hî/but-á-hû
+4. 魴魚 hang-hî/hang-hû
+5. 煙仔魚 ian-á-hî/ian-á-hû
+6. 油魚 iû-hî/iû-hû
+7. 鱙仔魚 jiâu-á-hî/liâu-á-hû
+8. 鰇魚 jiû-hî/liû-hû
+9. 加網魚 ka-bāng-hî/ka-bāng-hû
+10. 狗母魚 káu-bó-hî/káu-bó-hû
+11. 旗魚 kî-hî/kî-hû
+12. 鹹鰱魚 kiâm-liân-hî/kiâm-liân-hû
+13. 紅鰱魚 âng-liân-hî
+14. 鹹水魚 kiâm-tsuí-hî/kiâm-tsuí-hû
+15. 鱖魚 kuè-hî/kè-hû
+16. 鯰魚 liâm-hî/liâm-hû
+17. 扁魚 pínn-hî/pínn-hû
+18. 白帶魚 pe̍h-tuà-hî/pe̍h-tuà-hû
+19. 鮑魚 pau-hî/pau-hû
+20. 烏魚子 oo-hî-tsí/oo-hû-tsí
+21. 烏魚 oo-hî/oo-hû
+22. 黃魚 n̂g-hî/n̂g-hû
+23. 鱸魚 lôo-hî/lôo-hû
+24. 鰱魚 liân-hî/liân-hû
+25. 豆仔魚 tāu-á-hî/tāu-á-hû
+26. 鱈魚 suat-hî/suat-hû
+27. 鯊魚 sua-hî/sua-hû
+28. 鯊魚煙 sua-hî-ian/sua-hû-ian
+29. 鱔魚 siān-hî/siān-hû
+30. 虱目魚 sat-ba̍k-hî/sat-ba̍k-hû
+31. 三文魚 sam-bûn-hî/sam-bûn-hû
+32. 魬魚 puánn-hî/puánn-hû
+33. 吳郭魚 ngôo-kueh-hî/ngôo-kueh-hû
+34. 鰮仔魚 un-á-hî/un-á-hû
+35. 鯽仔魚 tsit-á-hî/tsit-á-hû
+36. 汫水魚 tsiánn-tsuí-hî/tsiánn-tsuí-hû
+37. 草魚 tsháu-hî/tsháu-hû
+38. 柴魚 tshâ-hî/tshâ-hû
+
+
+
+
+
+

@@ -131,7 +131,7 @@
 47. 烏面眶棘鱸、紅尾冬 âng-bué-tang / âng-bé-tang
 48. 雙帶鱗鰭烏尾鮗、烏尾冬 oo-bué-tang / oo-bé-tang
 49. 黄背牙鯛、赤鯮 tshiah-tsang
-50. 擬刺尾鯛 青tshinn倒吊仔
+50. 擬刺尾鯛、倒吊、粗皮鯛、粗皮仔 tò-tiàu
 51. 藍短鰭笛鯛、汕午 suann-ngóo
 52. 銀紋笛鯛、紅槽 âng-tsô
 53. 杜氏鰤、紅魽 oo-bué-tang / oo-bé-tang

@@ -189,6 +189,11 @@
 4. 豬跤、豬腳 ti-kha
 5. 老鼠肉 niáu-tshí-bah
 
+### 雞的台語 ke-á ê tâi-gí
 
-
-
+0. 雞胸 ke-hing
+1. 肉雞仔 bah-ke-á
+2. 火雞母 hué-ke-bó
+3. 火雞 hué-ke
+4. 雞尾脽 ke-bué-tsui
+5. 雞公 ke-kang

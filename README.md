@@ -72,7 +72,7 @@
 67. 花枝在開始煮前30分鐘泡流水退冰，不要退冰太久。
 68. 不要邊煮邊放音樂、podcasts，保持專心。
 69. 用清水或蔬果洗淨液洗砧板。
-70. 在廚房放個小椅子，累的時候或是等水滾的時候可以坐著滑手機。
+70. 廚房放小椅子，累的時候或是等水滾的時候可以坐著滑手機。
 
 ## 調味
 0. 醬油清：屏大薄鹽醬油。
@@ -88,7 +88,7 @@
 ## 食材
 0. 米：新南田董米。
 1. 蛋：[草上奔牧場](https://running-egg.com/)。
-2: 水產：[初蝦](https://www.facebook.com/D.H.A.C.K.shrimp/)、[魚塭千金鮮魚舖]。(https://www.facebook.com/%E9%AD%9A%E5%A1%AD%E5%8D%83%E9%87%91%E9%AE%AE%E9%AD%9A%E8%88%96-233145515330545)
+2: 水產：[初蝦](https://www.facebook.com/D.H.A.C.K.shrimp/)、[魚塭千金鮮魚舖](https://www.facebook.com/%E9%AD%9A%E5%A1%AD%E5%8D%83%E9%87%91%E9%AE%AE%E9%AD%9A%E8%88%96-233145515330545)。
 3. 菱角：[官田菱雉菱](https://www.facebook.com/jacanachestnut)。
 
 ## ke-si

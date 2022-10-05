@@ -91,7 +91,7 @@
 2: 水產：[初蝦](https://www.facebook.com/D.H.A.C.K.shrimp/)、[魚塭千金鮮魚舖](https://www.facebook.com/%E9%AD%9A%E5%A1%AD%E5%8D%83%E9%87%91%E9%AE%AE%E9%AD%9A%E8%88%96-233145515330545)。
 3. 菱角：[官田菱雉菱](https://www.facebook.com/jacanachestnut)。
 
-## ke-si
+## 廚具
 0. 洗手乳：獅王趣淨料理手抗菌去味慕斯。
 1. 炒鍋：山田工業所木柄中式炒鍋。
 2. 平煎鍋：柳宗理岩紋單手鐵鍋。

@@ -90,9 +90,9 @@
 9. 麻油：瑞泰麻油。
 
 ## 食材
-0. 米：新南田董米。
+0. 米：[新南田董米](https://www.tiandongrice.com.tw/)。
 1. 蛋：[草上奔牧場](https://running-egg.com/)。
-2. 水產：[初蝦](https://www.facebook.com/D.H.A.C.K.shrimp/)、[魚塭千金鮮魚舖](https://www.facebook.com/%E9%AD%9A%E5%A1%AD%E5%8D%83%E9%87%91%E9%AE%AE%E9%AD%9A%E8%88%96-233145515330545)、[滿源魚舖](https://www.facebook.com/profile.php?id=100057319306625)。
+2. 水產：[初蝦](https://www.facebook.com/D.H.A.C.K.shrimp/)、[魚塭千金鮮魚舖](https://www.facebook.com/%E9%AD%9A%E5%A1%AD%E5%8D%83%E9%87%91%E9%AE%AE%E9%AD%9A%E8%88%96-233145515330545)、[滿源魚舖](https://www.facebook.com/profile.php?id=100057319306625)、[過路一尾鮮](https://www.facebook.com/gouluiweishien)。
 3. 菱角：[官田菱雉菱](https://www.facebook.com/jacanachestnut)。
 4. 料理：[水瓶家料理](https://www.shueiping.com/)。
 

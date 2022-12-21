@@ -96,7 +96,8 @@
 2. 水產：[初蝦](https://www.facebook.com/D.H.A.C.K.shrimp/)、[魚塭千金鮮魚舖](https://www.facebook.com/%E9%AD%9A%E5%A1%AD%E5%8D%83%E9%87%91%E9%AE%AE%E9%AD%9A%E8%88%96-233145515330545)、[滿源魚舖](https://www.facebook.com/profile.php?id=100057319306625)、[過路一尾鮮](https://www.facebook.com/gouluiweishien)。
 3. 菱角：[官田菱雉菱](https://www.facebook.com/jacanachestnut)。
 4. 料理：[水瓶家料理](https://www.shueiping.com/)。
-5. 玉米筍：[‍雲林媳婦精緻農產](https://instagram.com/yun_xifu)
+5. 玉米筍：[‍雲林媳婦精緻農產](https://instagram.com/yun_xifu)。
+6. 咖啡豆、麵、雜貨：[簡塑慢行](https://www.facebook.com/simplastictw/)。
 
 ## 廚具
 0. 洗手乳：獅王趣淨料理手抗菌去味慕斯、柚花植萃抗菌洗手乳 (麻豆區農會)。

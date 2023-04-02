@@ -113,7 +113,8 @@
 - 洗手乳：獅王趣淨料理手抗菌去味慕斯、柚花植萃抗菌洗手乳 (麻豆區農會)。
 - 炒鍋：山田工業所木柄中式炒鍋。
 - 玉子燒鍋：TAKUMI 匠 岩紋玉子燒鍋。
-- 矽膠鍋鏟：摩堤 MULTEE。
+- 矽膠鍋鏟：[MULTEE │ 摩堤琺瑯鑄鐵節能家電](https://multeeshop.com/)。
+- 湯鍋：[米雅可鍋具 Miyaco Cookware](https://www.miyacockwr.com/)
 
 ## 料理書
 
